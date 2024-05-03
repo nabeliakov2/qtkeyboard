@@ -1,0 +1,56 @@
+QPushButton#spaceButton
+{
+    min-width: 800;
+}
+
+QPushButton#shiftButton
+{
+    min-width: 237;
+}
+
+QPushButton#enterButton
+{
+    min-width: 237;
+}
+
+QPushButton
+{
+    background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgba(19, 19, 19, 180), stop:1 rgba(71, 71, 71, 180));
+    border: 1px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #AFB1B4;
+    padding: 2px;
+    font-family: "Liberation Sana";
+    font-size: 12pt;
+    font-weight: 300;
+    color: white;
+    min-height: 30;
+    min-width: 115;
+}
+
+QPushButton:pressed
+{
+    background: white;
+    color: black;
+}
+
+QPushButton:flat
+{
+    border: none;
+}
+
+QPushButton:default
+{
+    border-color: #C4C4F5;
+}
+
+QToolTip
+{
+    font-size: 20pt;
+}
+
+qt_keyboard--Keyboard
+{
+     background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgba(141, 141, 141, 180), stop: 1 rgba(198, 202, 231, 180));
+}

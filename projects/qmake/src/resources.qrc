@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/config">
+        <file>res/config/qtkeyboard.cfg</file>
+        <file>res/config/qtkeyboard.qss</file>
+    </qresource>
+    <qresource prefix="/keysets">
+        <file>res/keysets/default.xml</file>
+    </qresource>
+    <qresource prefix="/layouts">
+        <file>res/layouts/commonLayout.ini</file>
+    </qresource>
+</RCC>

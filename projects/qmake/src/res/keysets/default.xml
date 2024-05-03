@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keyset version="2.0">
+    <type>std</type>
+    <keys>
+        <row>
+            <key keycode="49" />
+            <key keycode="10" />
+            <key keycode="11" />
+            <key keycode="12" />
+            <key keycode="13" />
+            <key keycode="14" />
+            <key keycode="15" />
+            <key keycode="16" />
+            <key keycode="17" />
+            <key keycode="18" />
+            <key keycode="19" />
+            <key keycode="20" />
+            <key keycode="21" />
+            <key keycode="22" />
+            <key keycode="110" />
+        </row>
+        <row>
+            <key keycode="23" />
+            <key keycode="24" />
+            <key keycode="25" />
+            <key keycode="26" />
+            <key keycode="27" />
+            <key keycode="28" />
+            <key keycode="29" />
+            <key keycode="30" />
+            <key keycode="31" />
+            <key keycode="32" />
+            <key keycode="33" />
+            <key keycode="34" />
+            <key keycode="35" />
+            <key keycode="51" />
+            <key keycode="112" />
+        </row>
+        <row>
+            <key keycode="66" />
+            <key keycode="38" />
+            <key keycode="39" />
+            <key keycode="40" />
+            <key keycode="41" />
+            <key keycode="42" />
+            <key keycode="43" />
+            <key keycode="44" />
+            <key keycode="45" />
+            <key keycode="46" />
+            <key keycode="47" />
+            <key keycode="48" />
+            <key keycode="36" />
+            <key keycode="117" />
+        </row>
+        <row>
+            <key keycode="50" />
+            <key keycode="52" />
+            <key keycode="53" />
+            <key keycode="54" />
+            <key keycode="55" />
+            <key keycode="56" />
+            <key keycode="57" />
+            <key keycode="58" />
+            <key keycode="59" />
+            <key keycode="60" />
+            <key keycode="61" />
+            <key keycode="62" />
+            <key keycode="115" />
+        </row>
+        <row>
+            <key keycode="1001" />
+            <key keycode="65" />
+            <key keycode="113" />
+            <key keycode="111" />
+            <key keycode="114" />
+            <key keycode="116" />
+            <key keycode="1002" />
+        </row>
+    </keys>        
+</keyset>
+

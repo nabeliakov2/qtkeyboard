@@ -1,0 +1,9 @@
+KeyBoard
+{
+    /*background-image: url(:/background/res/background.png);*/
+
+    background: qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgba(141, 141, 141, 180), stop: 1 rgba(198, 202, 231, 180));
+}
+
+
+
